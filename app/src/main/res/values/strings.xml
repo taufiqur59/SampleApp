@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="dev_youtube_adrs_browser">https://www.youtube.com/channel/UCqpLWjZUbFca3ULvpiRuLcw</string>
+    <string name="rate">Rate This App</string>
+    <string name="more_free">More Free Apps</string>
+    <string name="quit">Quit</string>
+    <string name="share_this_app">Share This App</string>
+    <string name="about_this_app">About this App</string>
+    <string name="app_link">market://details?id=com.ruetgmail.taufiqur.sampleapp</string>
+    <string name="alternate_app_link">https://play.google.com/store/apps/details?id=com.ruetgmail.taufiqur.sampleapp</string>
+    <string name="awesome_app">This app is awesome!\n
+        Check this out https://play.google.com/store/apps/details?id=com.ruetgmail.taufiqur.sampleapp</string>
+    <string name="app_sharing_subject">Sample App - Sample Android App</string>
+    <string name="share_app">Share this App via</string>
+    <string name="developer_page">market://dev?id=9082460539100844090</string>
+    <string name="alternate_dev_page">https://play.google.com/store/apps/dev?id=9082460539100844090</string>
+    <string name="developer_name">Taufiqur Rahman Nishat</string>
+    <string name="developer_detail">Entrepreneur, Bangladesh</string>
+    <string name="developer_message">If you like this App, please share with friends,
+        give a good rating and show your support.</string>
+    <string name="dev_at_youtube">Find me on YouTube</string>
+    <string name="dev_at_twitter">Find me on Twitter</string>
+    <string name="dev_twitter_adrs">https://twitter.com/taufiqur59</string>
+    <string name="version_code">Version: 1.0.0</string>
+    <string name="drawer_header_text">This is a Sample App</string>
+    <string name="details">Details</string>
+</resources>

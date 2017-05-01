@@ -1,0 +1,5 @@
+﻿00   00   Jack  Jack is a good man. He is a pirate though he does help poor people. Be like Jack.
+01   01   Ben  Ben is a student. He likes to read a lot. Be like Ben.
+02   02   Hamid  Hamid is nobody. Be like Hamid.
+03   03   Kate  Kate is a girl who loves to learn programming languages. She is brave and a dreamer. Be like Kate.
+04   04   Lilly  Lilly is just a girl wondering about the world.
